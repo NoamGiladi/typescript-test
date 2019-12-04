@@ -1,0 +1,7 @@
+C:\Users\jbt\source\repos\TypeScriptHTMLApp11\TypeScriptHTMLApp11\obj\Debug\TypeScriptHTMLApp11.csprojAssemblyReference.cache
+C:\Users\jbt\source\repos\TypeScriptHTMLApp11\TypeScriptHTMLApp11\bin\TypeScriptHTMLApp1.dll.config
+C:\Users\jbt\source\repos\TypeScriptHTMLApp11\TypeScriptHTMLApp11\bin\TypeScriptHTMLApp1.dll
+C:\Users\jbt\source\repos\TypeScriptHTMLApp11\TypeScriptHTMLApp11\bin\TypeScriptHTMLApp1.pdb
+C:\Users\jbt\source\repos\TypeScriptHTMLApp11\TypeScriptHTMLApp11\obj\Debug\TypeScriptHTMLApp11.csproj.CoreCompileInputs.cache
+C:\Users\jbt\source\repos\TypeScriptHTMLApp11\TypeScriptHTMLApp11\obj\Debug\TypeScriptHTMLApp1.dll
+C:\Users\jbt\source\repos\TypeScriptHTMLApp11\TypeScriptHTMLApp11\obj\Debug\TypeScriptHTMLApp1.pdb
